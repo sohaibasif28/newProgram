@@ -1,0 +1,4 @@
+fname = "sohaib"
+lname = "asif"
+name = fname + lname
+print(name)
